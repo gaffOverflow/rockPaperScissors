@@ -7,6 +7,8 @@ This is a simple game of Rock Paper Scissors, built with JavaScript.
 - The game will determine the winner and display the result.
 ## Technologies Used
 This game was built using HTML, CSS, and JavaScript.
+## Framework
+TailwindCss
 ## Contributing
 If you would like to contribute to this game, feel free to submit a pull request.
 
