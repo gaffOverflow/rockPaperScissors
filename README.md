@@ -1,7 +1,8 @@
 # Rock Paper Scissors
 This is a simple game of Rock Paper Scissors, built with JavaScript.
+Click [here](https://just-rock-paper.netlify.app/) tp play
 ## How to Play
-- Open the index.html file in a web browser.
+- Click to open the game where it indicates above.
 - Click on one of the three buttons: Rock, Paper, or Scissors.
 - The computer will randomly select one of the three options as well.
 - The game will determine the winner and display the result.
