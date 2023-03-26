@@ -1,6 +1,6 @@
 # Rock Paper Scissors
 This is a simple game of Rock Paper Scissors, built with JavaScript.
-Click [here](https://just-rock-paper.netlify.app/) tp play
+Click [here](https://just-rock-paper.netlify.app/) to play
 ## How to Play
 - Click to open the game where it indicates above.
 - Click on one of the three buttons: Rock, Paper, or Scissors.
